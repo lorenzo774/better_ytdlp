@@ -14,7 +14,7 @@ An easier [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 2. Install [yt-dlp](https://github.com/yt-dlp/yt-dlp) if you don't have it
 
-3. Add better_ytdlp.ps1 content inside your powershell user profile
+3. Run install.ps1
 
 4. Restart powershell terminal
 
